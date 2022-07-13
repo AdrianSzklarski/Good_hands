@@ -1,0 +1,6 @@
+*.idea
+venv
+*.zip
+PortfolioLab_HTML_Layout-python
+local_settings.py
+__pycache__
